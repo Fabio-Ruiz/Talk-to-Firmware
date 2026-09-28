@@ -31,7 +31,7 @@ Una vez preparada la placa, el participante parte únicamente del dispositivo
 programado.
 
 Al iniciar, el firmware presenta:
-
+```text
 +--------------------------------------------------+
 |              TALK // UNL0CK                      |
 |        ESP32-C3 FIRMWARE CHALLENGE               |
@@ -39,7 +39,7 @@ Al iniciar, el firmware presenta:
 |  Listen to the board. Inspect what changes.      |
 |  Alter what remains.                             |
 +--------------------------------------------------+
-
+```
 ## Pasos para iniciar el reto
 
 Antes de comenzar el reto, prepare el entorno de trabajo y programe la
