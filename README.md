@@ -49,7 +49,7 @@ ESP32-C3 siguiendo los manuales incluidos en este repositorio.
 
 Consulte:
 
-**`Manual_Configuración_de_Entorno_Talk_to_Firmware.pdf`**
+[**Manual de Configuración de Entorno - Talk to Firmware**](./Manual_Configuración_de_Entorno_Talk_to_Firmware.pdf)
 
 Este documento explica la preparación del entorno y la instalación de las
 herramientas necesarias para trabajar con el reto.
@@ -58,7 +58,7 @@ herramientas necesarias para trabajar con el reto.
 
 Consulte:
 
-**`Manual_de_Flasheo_de_ESP32_C3_Talk_to_Firmware.pdf`**
+[**Manual de Flasheo de ESP32-C3 - Talk to Firmware**](./Manual_de_Flasheo_de_ESP32_C3_Talk_to_Firmware.pdf)
 
 Siga este manual para cargar el firmware del reto en la ESP32-C3 DevKitM-1.
 
@@ -66,7 +66,7 @@ Siga este manual para cargar el firmware del reto en la ESP32-C3 DevKitM-1.
 
 Consulte:
 
-**`WriteUp_Reto_Talk_to_Firmware.pdf`**
+[**Write-up del reto Talk to Firmware**](./WriteUp_Reto_Talk_to_Firmware.pdf)
 
 Una vez programada la placa, el reto debe abordarse como un escenario de
 **caja negra**: a partir de este momento, la resolución parte del dispositivo
